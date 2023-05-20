@@ -21,10 +21,11 @@ Hi, im Sercan. 👋🏻
 ---
 [![](https://visitcount.itsvg.in/api?id=sercwn&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🥶 My Discord acc
 
 <div align="center">
-<ahref="293868036723834880" target="_blank">
+<ahref="195729290606673921" target="_blank">
       <img src="https://lanyard.cnrad.dev/api/195729290606673921?bg=111111">
    </a>
 </div>
